@@ -126,7 +126,6 @@
     "breadcrumb.focusForeground": "#eaeaea",
     "breadcrumb.activeSelectionForeground": "#eaeaea",
     "breadcrumbPicker.background": "#121212",
-    "breadcrumb.activeSelectionForeground": "#eaeaea",
 
     // Status/Title/Panel/Toolbar
     "statusBar.background": "#121212",
@@ -194,7 +193,6 @@
     "extensionButton.background": "#F59E0B",
     "extensionButton.foreground": "#121212",
     "extensionButton.hoverBackground": "#D97706",
-    "checkbox.border": "#333333",
     "tab.activeBorder": "#333333",
     "tab.unfocusedActiveBorder": "#333333",
     "tab.activeBorderTop": "#333333",
@@ -367,9 +365,6 @@
     "testing.message.info.lineBackground": "#E68E0D20",
 
     // Extensions
-    "extensionButton.prominentBackground": "#FFC107",
-    "extensionButton.prominentForeground": "#eaeaea",
-    "extensionButton.prominentHoverBackground": "#8A8A8D",
     "extensionBadge.remoteBackground": "#B91C1C",
     "extensionBadge.remoteForeground": "#eaeaea",
     "extensionIcon.starForeground": "#B91C1C",
@@ -465,7 +460,6 @@
     "textBlockQuote.background": "#121212",
     "textBlockQuote.border": "#E68E0D",
     "textCodeBlock.background": "#121212",
-    "textLink.activeForeground": "#BEBEBE",
     "textPreformat.foreground": "#E68E0D",
     "textSeparator.foreground": "#D35F5F",
     "toolbar.hoverBackground": "#8A8A8D",
